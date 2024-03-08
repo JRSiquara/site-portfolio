@@ -20,3 +20,7 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 [Instagram](https://instagram.com/jrsiquaratrue/)
 
 [Youtube](https://youtube.com/@jrsiquara?si=uCa5M-2jMvg0C6LF)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Segunda area destacada
