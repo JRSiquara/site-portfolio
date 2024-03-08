@@ -10,4 +10,4 @@ trabalhando com **branches**._
 ### Rede Social:
 [Instagram](https://instagram.com/jrsiquaratrue)
 
-[Youtube](https>//youtube.com/@jrsiquara?si=uCa5M-2jMvg0C6LF)
+[Youtube](https://youtube.com/@jrsiquara?si=uCa5M-2jMvg0C6LF)
