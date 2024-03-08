@@ -2,6 +2,7 @@
 # Bem vindo ao curso Git e GitHub.
 Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._
 
+**Ultimas updates:**
 - [X] Site responsivo.
 - [ ] login com facebook.
 - [ ] Pagina sobre a empresa.
@@ -59,3 +60,10 @@ function showName(name){
         color: #FF0000;
 }
 '''
+
+Propriedade | Descrição
+----------- | ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cor de fudo da area em HEX
+onPress | Função chamada quando clicar no botão
